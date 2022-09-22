@@ -20,7 +20,7 @@ The goal of this analysis was to help Bek use machine learning via a neural netw
 
 ## Summary
 
-Based on the charts the overall validity of the model should off the power of machine learning. Despite this method (even with optimization) being more on the simpler side, we were able to create an effective model to help Bek determine which applicants would be most successful with charity funding. I feel like if other machine learning models were enacted on top of the model that was created we could produce some interesting results. Whether that would be useful to the overall accuracy of the model is left up to testing. Based on my currect understanding of neural networks, this system is a healthy choice for accuracy due to its ease of use. 
+  Based on the charts, the overall validity of the model showed off the power of machine learning. Despite this method (even with optimization) being more on the simpler side, we were able to create an effective model to help Bek determine which applicants would be most successful with charity funding. I feel like if other machine learning models were enacted on top of the model that was created we could produce some interesting results. Whether that would be useful to the overall accuracy of the model is left up to testing. Based on my currect understanding of neural networks, this system is a healthy choice for accuracy due to its ease of use. 
 
 
 
